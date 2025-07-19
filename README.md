@@ -33,6 +33,7 @@ Easy Minecraft Launcher 是一个简单易用的 Minecraft 启动器，由 DeepS
 2. 在"版本"选项卡中选择要安装的 Minecraft 版本
 3. 点击"安装"按钮下载游戏
 4. 安装完成后点击"启动"按钮开始游戏
+具体方法可查看哔哩哔哩视频介绍：https://www.bilibili.com/video/BV1PHNCzdEEW/?spm_id_from=333.1387.0.0
 
 ## 开发与贡献
 
